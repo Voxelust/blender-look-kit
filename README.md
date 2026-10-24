@@ -48,7 +48,7 @@ Clicking a button again updates the previous result instead of stacking a new on
 
 ## Credits
 
-This add-on was built with AI assistance from [Claude](https://www.anthropic.com/claude) (made by Anthropic). The idea, art direction, testing in Blender, and publishing were done by the repository owner. The code was written by Claude and refined through repeated real-world testing and bug reports.
+Created by **Voxelust**, with code and technical assistance from **[Claude](https://www.anthropic.com/claude)** (an AI assistant made by Anthropic). The idea, art direction, testing in Blender and publishing were done by the creator. See [CREDITS.md](CREDITS.md) for details.
 
 ## License
 
